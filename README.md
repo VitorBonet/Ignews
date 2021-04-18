@@ -16,7 +16,7 @@
 
 ### 📜 Sobre
 
-  **Ignews** é uma aplicação para testar os ferramentas do Next.js, um pequeno blog que usa conexão com banco FaunaDB, ferramenta de pagamentos stripe e o CMS Prismic. Desenvolvido no curso Bootcamp Ignite da [Rocketseat](http://rocketseat.com.br/)
+  **Ignews** é uma aplicação para testar os ferramentas do Next.js, um pequeno blog que usa conexão com banco FaunaDB, login via API do GitHub, ferramenta de pagamentos stripe e o CMS Prismic. Desenvolvido no curso Bootcamp Ignite da [Rocketseat](http://rocketseat.com.br/)
 
 ---
 
@@ -25,8 +25,9 @@
   - [React JS](https://pt-br.reactjs.org/)
   - [Next JS](https://nextjs.org/)
   - [Fauna DB](https://fauna.com/)
-  - [Stripe](https://stripe.com/en-br)'
+  - [Stripe](https://stripe.com/en-br)
   - [Prismic](https://prismic.io/)
+  - [API GitHub](https://docs.github.com/en/rest)
 ---
 
   ### 🖨 Como baixar o projeto
@@ -34,17 +35,17 @@
   ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/VitorBonet/github_explorer.git
+    $ git clone https://github.com/VitorBonet/Ignews.git
 
     #Entrar no diretório
-    $ cd github_explorer
+    $ cd ignews
 
     # Intalar as dependências
     $ yarn install
 
 
     # Iniciar o projeto
-    $ yarn start
+    $ yarn dev
   ```
 ---
 
